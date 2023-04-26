@@ -1,0 +1,2 @@
+# tatebot
+内部向けwikiの更新情報をdiscordに通知するbot
